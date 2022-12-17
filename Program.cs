@@ -1,6 +1,6 @@
 ﻿using System.IO;
 using System.Linq;
-using AdventCode.Day4;
+using AdventCode.Day5;
 
 namespace AdventCode
 {
@@ -9,8 +9,8 @@ namespace AdventCode
         // See https://aka.ms/new-console-template for more information
         static void Main(string[] args)
         {
-            Day4Algorithm day4 = new Day4Algorithm();
-            day4.Day4Part2();
+            Day5Algorithm day5 = new Day5Algorithm();
+            day5.Day5Part2();
         }
 
         
